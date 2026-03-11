@@ -1,5 +1,6 @@
 body {
   background-color: #000102;
+  color: #ffffff;
 }
 .card {
   border-radius: 15px;
@@ -9,4 +10,8 @@ body {
 .btn-primary {
   border-radius: 10px;
   padding: 10px 20px;
+}
+label {
+  font-weight: bold;
+  color: #ffffff;
 }
